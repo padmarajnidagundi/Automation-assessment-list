@@ -28,3 +28,5 @@ Here is the list of Good Test Automation Framework Checklist
  <li>Use BDD – But this is not mandatory always
  <li>Screen shots on failures - Helps failure investigation easy.
  <li>Use dependency management like Maven for Java, Nuget for .net, PIP for Python
+  
+  Ref http:// www pavantestingtools com/2019/11/good-test-automation-framework-checklist_10.html
